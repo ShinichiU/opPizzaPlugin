@@ -1,0 +1,2 @@
+all:
+  javascripts: [/opPizzaPlugin/js/menu, /sfProtoculousPlugin/js/prototype.js, http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/scriptaculous.js, /opPizzaPlugin/js/fancyzoom.js]
